@@ -1,0 +1,2 @@
+Salut, eu sunt Andrei si invat sa lucrez in Git/GitHub.
+Acest fisier a fost creat intr-un feature_brach local, pe care il voi integra in branch-ul master, apoi voi uploada modificarica pe GitHub.
